@@ -1,8 +1,8 @@
 # David Bassin
 
-I build AI tools that real people use, and I teach.
+I teach AP Macro and history, and I build the learning tools my students use.
 
-My students use the history videos and review games I make for my high school classes on Long Island. Outside school, I've built a call system for a plumbing company and a financial aid dashboard with a university counselor. Through Bassin Consulting, I offer AI training and tools to schools and ed-tech teams.
+Games, videos, and IEP worksheets, made with AI and checked by me. On my school's AI Task Force, I coach other teachers. Outside school, I've built a call system for a plumbing company and a financial aid dashboard.
 
 - Portfolio: [dbassin12.github.io](https://dbassin12.github.io/)
 - LinkedIn: [linkedin.com/in/dbassin](https://www.linkedin.com/in/dbassin/)
@@ -12,11 +12,18 @@ My students use the history videos and review games I make for my high school cl
 
 | Project | What it is |
 | --- | --- |
-| [History videos](https://dbassin12.github.io/history-videos/) | Four short narrated videos for a French Revolution unit, with captions. The documentaries are made from real paintings and prints, with full picture credits. |
+| [DRS Econ Arcade](https://dbassin12.github.io/drs-econ-arcade/) | Seven AP Macro games for the skills the exam grades, with a one-line why after every answer and a readiness map. No accounts; scores stay on the device. |
+| [History videos](https://dbassin12.github.io/history-videos/) | Four short narrated videos for a French Revolution unit, with captions. The documentaries use historical paintings and prints, each one credited. |
 | [Road to Revolution](https://road-to-revolution.vercel.app) | A 3D review game for the Enlightenment and the French Revolution. 213 voiced lines, and it works on phones. |
-| [DRS Econ Arcade](https://dbassin12.github.io/drs-econ-arcade/) | Seven AP Macro games for the skills the exam grades: shift the curve, run the Fed, find the mistakes on a graph. |
-| [AP Macro Unit 4 review game](https://dbassin12.github.io/Macro-Unit-4-Game/) | 70+ questions on the financial sector, from money and banking to monetary policy. |
+| [AP Macro Unit 4 review game](https://dbassin12.github.io/Macro-Unit-4-Game/) | 47 practice questions and 25 short lessons on the financial sector, from money and banking to monetary policy. |
 | [Mo's Big Dig](https://dbassin12.github.io/mos-big-dig/) | A talking 3D Earth for kids who can't read yet. Every line is spoken. |
+
+## Work samples
+
+- [Econ Arcade case study](https://dbassin12.github.io/econ-arcade-case-study/): the problem, the design choices, and how students use it.
+- [Teacher guide: Shift Happens](https://dbassin12.github.io/shift-happens-guide/): AP topics by level, a 38-minute class plan, an exit ticket, and practice questions.
+- [Sample AI guidelines a school could adapt](https://dbassin12.github.io/ai-guidelines/): rules for students and teachers, and a privacy checklist for AI tools.
+- [A one-hour teacher workshop plan](https://dbassin12.github.io/ai-workshop/): every teacher makes something for their class and checks it.
 
 ## Built outside the classroom
 
